@@ -1,0 +1,10 @@
+[project]
+name = "lab7"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "coverage>=7.17.0",
+    "datetime>=6.0",
+    "task>=0.2.5",
+    "uuid>=1.30",
+]
